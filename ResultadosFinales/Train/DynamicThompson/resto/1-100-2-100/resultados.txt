@@ -1,0 +1,6 @@
+ILD@10: 0.761
+Unexpectedness@10: 0.8633
+Novedad: 0.3232
+Gini: 0.0387
+Aciertos: 0.0293
+5587.4426s
